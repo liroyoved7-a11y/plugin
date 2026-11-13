@@ -1,0 +1,23 @@
+password-managers:
+  - "CrazyLiroy"
+
+messages:
+  prefix: "&8[&bאבטחה&8] &r"
+  join-register-title: "&cברוך הבא לשרת!"
+  join-register-subtitle: "&eהירשם באמצעות: /register <סיסמה> <סיסמה>"
+  join-login-title: "&aברוך שובך!"
+  join-login-subtitle: "&eהתחבר באמצעות: /login <סיסמה>"
+  register-usage: "&cשימוש נכון: /register <סיסמה> <אימות סיסמה>"
+  password-mismatch: "&cהסיסמאות שהזנת אינן תואמות."
+  already-registered: "&cכבר נרשמת לשרת! השתמש ב-/login."
+  register-success: "&aנרשמת בהצלחה! כעת תוכל לשחק."
+  login-usage: "&cשימוש נכון: /login <סיסמה>"
+  not-registered: "&cאינך רשום עדיין! השתמש ב-/register."
+  already-logged-in: "&eכבר התחברת לשרת."
+  wrong-password: "&cסיסמה שגויה! נסה שוב."
+  login-success: "&aהתחברת בהצלחה! משחק מהנה."
+  must-login: "&cעליך להתחבר קודם כדי לבצע פעולה זו."
+  no-permission: "&cאין לך גישה לפקודה זו."
+  admin-usage: "&cשימוש נכון: /passwordconfig <שם שחקן> <סיסמה חדשה>"
+  target-not-registered: "&cהשחקן המבוקש אינו רשום במערכת."
+  admin-password-changed: "&aהסיסמה של השחקן &e%player% &aעודכנה בהצלחה."

@@ -1,0 +1,14 @@
+name: HebrewAuth
+version: 1.0
+main: me.crazyliroy.hebrewauth.HebrewAuth
+api-version: '1.21'
+commands:
+  register:
+    description: הרשמה לשרת
+    usage: /register <סיסמה> <אימות סיסמה>
+  login:
+    description: התחברות לשרת
+    usage: /login <סיסמה>
+  passwordconfig:
+    description: שינוי סיסמה לשחקן על ידי צוות מורשה
+    usage: /passwordconfig <שם שחקן> <סיסמה חדשה>
